@@ -1,6 +1,6 @@
 # DynaKV
 
-Official research code for **DynaKV: Token-Wise Adaptive Compression for KV Cache**.
+Official research code for **One Size Does Not Fit All: Token-Wise Adaptive Compression for KV Cache**.
 DynaKV applies a PCA-initialized spectral transform and learns a token-wise cutoff,
 so important tokens retain more KV dimensions while redundant tokens retain fewer.
 
